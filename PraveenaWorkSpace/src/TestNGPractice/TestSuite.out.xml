@@ -1,0 +1,7 @@
+<suite name = "HRM Application">
+	<test name = "Admin">
+		<Classes>
+			<Class name = "TestNGPractice.Example1"></Class>
+		</Classes>
+	</test>
+</suite>

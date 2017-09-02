@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[TestNG framework Method2]]>
+    </line>
+    <line>
+      <![CDATA[TestNG framework Method1]]>
+    </line>
+    <line>
+      <![CDATA[TestNG framework Method2]]>
+    </line>
+    <line>
+      <![CDATA[TestNG framework Method1]]>
+    </line>
+  </reporter-output>
+  <suite name="HRM Application" duration-ms="46" started-at="2017-08-19T11:20:51Z" finished-at="2017-08-19T11:20:52Z">
+    <groups>
+    </groups>
+    <test name="Admin" duration-ms="46" started-at="2017-08-19T11:20:51Z" finished-at="2017-08-19T11:20:52Z">
+      <class name="TestNGPractice.Example2">
+        <test-method status="PASS" signature="method5()[pri:0, instance:TestNGPractice.Example2@17e1986]" name="method5" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="Method4()[pri:0, instance:TestNGPractice.Example2@17e1986]" name="Method4" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method4 -->
+        <test-method status="PASS" signature="Method2()[pri:1, instance:TestNGPractice.Example2@17e1986]" name="Method2" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG framework Method2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+        <test-method status="PASS" signature="Method6()[pri:0, instance:TestNGPractice.Example2@17e1986]" name="Method6" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method6 -->
+        <test-method status="PASS" signature="Method6()[pri:0, instance:TestNGPractice.Example2@17e1986]" name="Method6" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method6 -->
+        <test-method status="PASS" signature="Method3()[pri:0, instance:TestNGPractice.Example2@17e1986]" name="Method3" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method3 -->
+        <test-method status="PASS" signature="method5()[pri:0, instance:TestNGPractice.Example2@17e1986]" name="method5" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method5 -->
+        <test-method status="PASS" signature="Method1()[pri:2, instance:TestNGPractice.Example2@17e1986]" name="Method1" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG framework Method1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+      </class> <!-- TestNGPractice.Example2 -->
+      <class name="TestNGPractice.Example1">
+        <test-method status="PASS" signature="Method2()[pri:1, instance:TestNGPractice.Example1@1dd3bcd]" name="Method2" duration-ms="16" started-at="2017-08-19T16:50:51Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG framework Method2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Method2 -->
+        <test-method status="PASS" signature="Method4()[pri:0, instance:TestNGPractice.Example1@1dd3bcd]" name="Method4" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:51Z" finished-at="2017-08-19T16:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method4 -->
+        <test-method status="PASS" signature="Method1()[pri:2, instance:TestNGPractice.Example1@1dd3bcd]" name="Method1" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[TestNG framework Method1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Method1 -->
+        <test-method status="PASS" signature="Method3()[pri:0, instance:TestNGPractice.Example1@1dd3bcd]" name="Method3" is-config="true" duration-ms="0" started-at="2017-08-19T16:50:52Z" finished-at="2017-08-19T16:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Method3 -->
+      </class> <!-- TestNGPractice.Example1 -->
+    </test> <!-- Admin -->
+  </suite> <!-- HRM Application -->
+</testng-results>
